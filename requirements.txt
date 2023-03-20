@@ -1,0 +1,6 @@
+Flask
+Flask-Login
+flask-ngrok
+Flask-RESTful
+SQLAlchemy
+SQLAlchemy-serializer
